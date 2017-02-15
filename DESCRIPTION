@@ -1,0 +1,18 @@
+Package: gpstools
+Type: Package
+Title: movegraph for network analysis of animal movement
+Version: 0.0.0.9000
+Author: Remi Patin
+Maintainer: Remi Patin <remi.patin@cefe.cnrs.fr>
+Description: movegraph provides several tools helping analysis of GPS movement
+    as network data
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 5.0.1.9000
+Depends:
+    R (>= 3.3.1)
+Imports:
+    plyr (>= 1.8.4),
+    dplyr (>= 0.4.3),
+    ggplot2 (>= 2.1.0)
+
